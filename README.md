@@ -17,9 +17,10 @@ I enjoy building intelligent systems that solve real-world problems using data, 
 
 ### Programming Languages
 
+* C++
 * Python
 * Java
-* C++
+
 
 ### Machine Learning & AI
 
