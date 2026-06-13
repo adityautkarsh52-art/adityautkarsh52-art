@@ -1,7 +1,9 @@
 # Hi, I'm Aditya Utkarsh 👋
 
 🎓 B.Tech – Artificial Intelligence & Machine Learning
+
 🏫 Bennett University
+
 📊 CGPA: 9.0
 
 ## 🚀 About Me
