@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 I am an AI/ML enthusiast with a strong interest in Machine Learning, Natural Language Processing, Computer Vision, and Software Engineering.
-
 I enjoy building intelligent systems that solve real-world problems using data, algorithms, and modern AI technologies. I am continuously exploring new technologies and improving my problem-solving and development skills.
 
 ---
